@@ -6,4 +6,5 @@ React native CLI Quickstart. More information in: https://reactnative.dev/docs/e
 
 # Scripts
 npx react-native start
+
 npx react-native run-android
